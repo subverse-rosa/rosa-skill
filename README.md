@@ -2,7 +2,7 @@
 
 以改革宗为底色的研经、神学研究与教学备课助手。
 
-**[下载 v1.9.22 r1 · 有限保证版](https://github.com/jbky97/rosa-skill/releases/tag/skill-v1.9.22-r1-limited)** · [安装指南](INSTALL.md) · [发行限制](LIMITED-RELEASE-NOTES.md) · [更新记录](CHANGELOG.md)
+**[下载 v1.9.22 r1 · 有限保证版](https://github.com/subverse-rosa/rosa-skill/releases/tag/skill-v1.9.22-r1-limited)** · [安装指南](INSTALL.md) · [发行限制](LIMITED-RELEASE-NOTES.md) · [更新记录](CHANGELOG.md)
 
 ## 本版新增
 
@@ -22,4 +22,4 @@
 
 GitHub 自动生成的 Source code ZIP / TAR 不是安装包。核对同一 Release 的 SHA256.txt。冻结包中 candidate／PENDING 为打包时历史文字，后续用户接受由发行说明记录；不重新打包求改标签。
 
-历史 [v1.9.21 r16 有限保证版](https://github.com/jbky97/rosa-skill/releases/tag/skill-v1.9.21-r16-limited) 与 [v1.9.20 最后完整验收基线](https://github.com/jbky97/rosa-skill/releases/tag/skill-v1.9.20) 保留。
+历史 [v1.9.21 r16 有限保证版](https://github.com/subverse-rosa/rosa-skill/releases/tag/skill-v1.9.21-r16-limited) 与 [v1.9.20 最后完整验收基线](https://github.com/subverse-rosa/rosa-skill/releases/tag/skill-v1.9.20) 保留。

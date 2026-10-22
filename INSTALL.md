@@ -2,7 +2,7 @@
 
 ## Gemini Spark + NotebookLM（推荐）
 
-1. 从 [v1.9.23 r13 有限保证版](https://github.com/jbky97/rosa-skill/releases/tag/skill-v1.9.23-r13-limited) 下载 `rosa-skill-v1.9.23-r13-package.zip`，先阅读随附 [发行限制](https://github.com/jbky97/rosa-skill/releases/download/skill-v1.9.23-r13-limited/LIMITED-RELEASE-NOTES.md)。引文、精确定位及 PDF 使用前须人工核对。本版为 CURRENT_LIMITED / USER_ACCEPTED_LIMITED，不是完整独立验收 PASS；旧版 Release 原样保留。
+1. 从 [v1.9.23 r13 有限保证版](https://github.com/subverse-rosa/rosa-skill/releases/tag/skill-v1.9.23-r13-limited) 下载 `rosa-skill-v1.9.23-r13-package.zip`，先阅读随附 [发行限制](https://github.com/subverse-rosa/rosa-skill/releases/download/skill-v1.9.23-r13-limited/LIMITED-RELEASE-NOTES.md)。引文、精确定位及 PDF 使用前须人工核对。本版为 CURRENT_LIMITED / USER_ACCEPTED_LIMITED，不是完整独立验收 PASS；旧版 Release 原样保留。
 2. 包内只有完整的 `rosa/` 文件夹，可在 Gemini Skills 页面拖放 ZIP“替换技能”，或以“更新已有 rosa”安装；不要新建第二个 rosa。若该环境要求先解压，请保留完整 `rosa/` 文件夹，以 `rosa/SKILL.md` 为入口，保持 `references/` 与 `assets/` 的相对路径。
 3. 安装后开新对话，核对 `SKILL.md` 的 Integration Revision 与 references 版本行为 `v1.9.23 r13`，确认能读取当前文件。仅把 ZIP 附到普通聊天，不等于平台已经持久安装技能。
 4. 在支持 NotebookLM 的宿主中，挂载你有权限使用的笔记本。需要直接引文时，应让宿主读取实际检索片段；笔记本名称或书目本身不能替代原文。
@@ -24,7 +24,7 @@ Windows PowerShell：
 Get-FileHash -Algorithm SHA256 -LiteralPath .\rosa-skill-v1.9.23-r13-package.zip
 ```
 
-将结果与同一 Release 的 [SHA256.txt](https://github.com/jbky97/rosa-skill/releases/download/skill-v1.9.23-r13-limited/SHA256.txt) 比对。r13 安装 ZIP 为 108455 bytes，SHA-256：`4567bc9824e57f179dc510c2542414eb276f96226f13ef4025037f7395d643db`。校验对象是安装 ZIP，不是 GitHub 自动生成的 Source code archive。
+将结果与同一 Release 的 [SHA256.txt](https://github.com/subverse-rosa/rosa-skill/releases/download/skill-v1.9.23-r13-limited/SHA256.txt) 比对。r13 安装 ZIP 为 108455 bytes，SHA-256：`4567bc9824e57f179dc510c2542414eb276f96226f13ef4025037f7395d643db`。校验对象是安装 ZIP，不是 GitHub 自动生成的 Source code archive。
 
 ## 升级保留个人资料
 
