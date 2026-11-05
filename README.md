@@ -2,7 +2,7 @@
 
 改革宗正统研习助手。帮助你自己读懂圣经，也参与神学研究、默想、思辨与创作。
 
-**[下载 v1.9.25 r14 · 有限保证版](https://github.com/subverse-rosa/rosa-skill/releases/tag/skill-v1.9.25-r14-limited)** · [安装指南](INSTALL.md) · [发行限制](LIMITED-RELEASE-NOTES.md) · [更新记录](CHANGELOG.md)
+**[下载 v1.9.25 r14 · 有限保证版](https://github.com/subverse-rosa/rosa-skill/releases/tag/skill-v1.9.25-r14-limited)** · [安装指南](INSTALL.md) · [发行限制](LIMITED-RELEASE-NOTES.md) · [更新记录](CHANGELOG.md) · [使用与贡献条款 / Terms](LICENSE.md)
 
 七个模块可单独使用，也可在自然对话中搭配：查经导师、神学研究、灵修助手、第三空间、神学健身房、讲章架构师、礼仪编排。编辑审稿台、辅助素材库与个人思考工具箱组成创作工具台，参与不同任务。
 
