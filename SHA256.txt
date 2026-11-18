@@ -1,1 +1,1 @@
-121fa42c369a5e0d6b9ccc215ce94d13657284d55a2a1254610527d566bd52bb  rosa-skill-v1.9.25-r14-package.zip
+8b9ffc3dbdf3fcf62c4c87aa4c90f884ea05f3dd1cf994da4cd5fe7943d636dd  rosa-skill-v1.9.25-r18-package.zip
